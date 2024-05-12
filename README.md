@@ -5,6 +5,7 @@ https://roadmap.sh/
 useful youtube channels
 https://www.youtube.com/@akshaymarch7
 https://www.youtube.com/@TechnicalSuneja
+https://www.youtube.com/@Learnersbucket
 https://www.youtube.com/@js_cafe
 https://www.youtube.com/@RoadsideCoder
 https://www.youtube.com/@SemicolonGuy
@@ -37,7 +38,47 @@ https://www.youtube.com/@PedroTechnologies
 https://www.youtube.com/@WebDevCody
 https://www.youtube.com/@TechWithNader
 https://www.youtube.com/@GyaniProgrammer
+https://www.youtube.com/@tanaypratap
+https://www.youtube.com/@heysandip
+https://www.youtube.com/@uidevguide
+https://www.youtube.com/@justinmlawrence
+https://www.youtube.com/@dev_insight_official
+https://www.youtube.com/@interviewhappy
+https://www.youtube.com/@itscodingdoctor
+https://www.youtube.com/@programmingwithmosh
+https://www.youtube.com/@AaronJack
+https://www.youtube.com/@MonsterlessonsAcademy
+https://www.youtube.com/@coderdost
+https://www.youtube.com/@CoderOne
+https://www.youtube.com/@webdevinterviews
+https://www.youtube.com/@yoshitajain0812
+https://www.youtube.com/@catherinelijs
+https://www.youtube.com/@codeshalaa
+https://www.youtube.com/@ReactjsExpertTalks
+https://www.youtube.com/@RowdyCoders
+https://www.youtube.com/@codestepbystep
+https://www.youtube.com/@webdecoded
+https://www.youtube.com/@simplelearning5093
+https://www.youtube.com/@TheReactGuy
+https://www.youtube.com/@TechbaseDev
+https://www.youtube.com/@thedevenvironment
+https://www.youtube.com/@NishaSingla
+https://www.youtube.com/@thedevenvironment
+https://www.youtube.com/@ITDevelopermohammed
+https://www.youtube.com/@AGTech777
+https://www.youtube.com/@SanketSingh1
+https://www.youtube.com/@CodingInsanely
+https://www.youtube.com/@SoftwareDeveloperDiaries
+https://www.youtube.com/@DevtoolsTech
+https://www.youtube.com/@ashishcode
+https://www.youtube.com/@CodeSketched
+https://www.youtube.com/@RohanPrasadofficial
+https://www.youtube.com/@TechRally
 
+
+REACT
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
 
 
 QUESTIONS
